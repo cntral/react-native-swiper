@@ -60,6 +60,7 @@
     "updtr": "^2.0.0"
   },
   "dependencies": {
+    "deprecated-react-native-prop-types": "*",
     "prop-types": "^15.5.10"
   },
   "config": {
