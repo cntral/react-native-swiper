@@ -13,7 +13,7 @@ import {
   Platform,
   ActivityIndicator
 } from 'react-native'
-import ViewPropTypes from 'deprecated-react-native-prop-types';
+import { ViewPropTypes } from 'deprecated-react-native-prop-types';
 
 /**
  * Default styles
